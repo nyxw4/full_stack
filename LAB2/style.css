@@ -1,3 +1,7 @@
+body{
+    background-color: blanchedalmond;
+}
+
 #title{
     color: rgb(0, 5, 77);
     text-align: left;
@@ -9,13 +13,13 @@
     color: rgb(26, 72, 133);
     text-align: left;
     font-family: 'Times New Roman';
-    font-size: 24pt;
+    font-size: 22pt;
 }
 
 p{
     text-align: left;
     font-family: Arial;
-    font-size: 14pt;
+    font-size: 12pt;
 }
 
 a:hover{
@@ -24,20 +28,26 @@ a:hover{
 
 ul{
     font-family: arial;
-    font-size: 14pt;
+    font-size: 12pt;
 }
 
 ol{
    font-family: arial;
-   font-size: 14pt; 
+   font-size: 12pt; 
 }
 .subtitle2{
     color: rgb(58, 101, 158);
     text-align: left;
     font-family: 'Times New Roman';
+    font-size: 18pt;
 }
 #titlee{
     text-align: center;
     font-family: Arial;
-    font-size: 14pt;
+    font-size: 16pt;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
 }
