@@ -1,0 +1,43 @@
+#title{
+    color: rgb(0, 5, 77);
+    text-align: left;
+    font-family: 'Times New Roman';
+    font-size: 26pt;
+}
+
+.subtitle{
+    color: rgb(26, 72, 133);
+    text-align: left;
+    font-family: 'Times New Roman';
+    font-size: 24pt;
+}
+
+p{
+    text-align: left;
+    font-family: Arial;
+    font-size: 14pt;
+}
+
+a:hover{
+    color: rgb(1, 1, 75);
+}
+
+ul{
+    font-family: arial;
+    font-size: 14pt;
+}
+
+ol{
+   font-family: arial;
+   font-size: 14pt; 
+}
+.subtitle2{
+    color: rgb(58, 101, 158);
+    text-align: left;
+    font-family: 'Times New Roman';
+}
+#titlee{
+    text-align: center;
+    font-family: Arial;
+    font-size: 14pt;
+}
