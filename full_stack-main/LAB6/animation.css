@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans';
+    margin: 0;
+    align-items: center;
+    text-align: center;
+}
+
+#canvas{
+    background-color: white;
+    display: block;
+    margin: 0 auto;
+    margin-top: 150px;
+}
